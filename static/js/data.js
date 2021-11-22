@@ -1,8 +1,8 @@
 var data = [
-  {
+{
     datetime: "1/10/2021",
-    city: "benton",
-    state: "ar",
+    city: "fresno",
+    state: "ca",
     country: "us",
     shape: "circle",
     durationMinutes: "15 mins.",
@@ -10,8 +10,8 @@ var data = [
   },
   {
     datetime: "1/8/2021",
-    city: "benton",
-    state: "ar",
+    city: "fresno",
+    state: "ca",
     country: "us",
     shape: "triangle",
     durationMinutes: "1 mins.",
@@ -19,8 +19,8 @@ var data = [
   },
   {
     datetime: "1/5/2021",
-    city: "benton",
-    state: "ar",
+    city: "fresno",
+    state: "ca",
     country: "us",
     shape: "circle",
     durationMinutes: "2 mins.",
@@ -28,10 +28,10 @@ var data = [
   },
   {
     datetime: "1/1/2021",
-    city: "benton",
-    state: "ar",
+    city: "fresno",
+    state: "ca",
     country: "us",
-    shape: "formation"
+    shape: "formation",
     durationMinutes: "12 mins.",
     comments: "Four bright red lights"
   },
